@@ -1,6 +1,4 @@
 version: 1.0.{build}
-configuration: 
-- Debug
-- Release
+configuration: Release
 on_success:
 - cmd: run_all_exe.bat
