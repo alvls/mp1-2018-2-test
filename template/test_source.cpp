@@ -4,9 +4,9 @@
 #include "task2.c"
 #include "task3.c"
 
-#define TASK1
-#define TASK2
-#define TASK3
+//#define TASK1
+//#define TASK2
+//#define TASK3
 
 #ifdef TASK1
 // ****************************************************************************
