@@ -1,0 +1,4 @@
+version: 1.0.{build}
+configuration: Debug
+on_success:
+- cmd: run_all_exe.bat
